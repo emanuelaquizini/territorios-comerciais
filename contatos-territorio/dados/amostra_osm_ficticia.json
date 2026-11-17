@@ -1,0 +1,269 @@
+{
+  "version": 0.6,
+  "generator": "AMOSTRA FICTÍCIA para testes — não são estabelecimentos reais",
+  "osm3s": {
+    "copyright": "Formato compatível com a Overpass API; dados inventados."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1001,
+      "tags": {
+        "name": "Padaria Pão Dourado (fictícia)",
+        "shop": "bakery",
+        "addr:street": "Rua Fictícia das Flores",
+        "addr:housenumber": "100",
+        "addr:suburb": "Centro",
+        "addr:postcode": "19010000",
+        "phone": "+55 18 2000-0001",
+        "check_date": "2026-03-10"
+      },
+      "lat": -22.122,
+      "lon": -51.388
+    },
+    {
+      "type": "way",
+      "id": 2001,
+      "tags": {
+        "name": "Padaria Pão Dourado (Fictícia)",
+        "shop": "bakery",
+        "building": "yes"
+      },
+      "center": {
+        "lat": -22.12205,
+        "lon": -51.38805
+      }
+    },
+    {
+      "type": "node",
+      "id": 1002,
+      "tags": {
+        "name": "Farmácia Bem Estar (fictícia)",
+        "amenity": "pharmacy",
+        "addr:street": "Avenida Exemplo Central",
+        "addr:housenumber": "250",
+        "addr:suburb": "Centro",
+        "phone": "(18) 2000-0002"
+      },
+      "lat": -22.12,
+      "lon": -51.385
+    },
+    {
+      "type": "node",
+      "id": 1003,
+      "tags": {
+        "name": "Ótica Visão Clara (fictícia)",
+        "shop": "optician",
+        "addr:street": "Rua Fictícia das Flores",
+        "addr:housenumber": "310",
+        "contact:phone": "018 2000 0003; 18 2000-0004"
+      },
+      "lat": -22.125,
+      "lon": -51.39
+    },
+    {
+      "type": "node",
+      "id": 1004,
+      "tags": {
+        "name": "Livraria Página Um (fictícia)",
+        "shop": "books",
+        "addr:street": "Rua do Saber Fictícia",
+        "addr:housenumber": "12"
+      },
+      "lat": -22.118,
+      "lon": -51.392
+    },
+    {
+      "type": "node",
+      "id": 1005,
+      "tags": {
+        "name": "Café Esquina (fictício)",
+        "amenity": "cafe",
+        "phone": "2000-0005"
+      },
+      "lat": -22.1235,
+      "lon": -51.387
+    },
+    {
+      "type": "node",
+      "id": 1006,
+      "tags": {
+        "name": "Repartição Pública Exemplo",
+        "office": "government",
+        "phone": "18 2000-0099"
+      },
+      "lat": -22.1215,
+      "lon": -51.386
+    },
+    {
+      "type": "node",
+      "id": 1007,
+      "tags": {
+        "name": "Papelaria Traço (fictícia)",
+        "shop": "stationery",
+        "addr:street": "Avenida Exemplo Central",
+        "addr:housenumber": "480",
+        "phone": "(18) 2000-0002"
+      },
+      "lat": -22.126,
+      "lon": -51.383
+    },
+    {
+      "type": "node",
+      "id": 1101,
+      "tags": {
+        "name": "Mercadinho Vila (fictício)",
+        "shop": "convenience",
+        "addr:street": "Rua Fictícia Marcondes",
+        "addr:housenumber": "45",
+        "addr:suburb": "Vila Marcondes",
+        "phone": "+55 (18) 2000-0101",
+        "check_date": "2025-01-15"
+      },
+      "lat": -22.115,
+      "lon": -51.372
+    },
+    {
+      "type": "node",
+      "id": 1102,
+      "tags": {
+        "name": "Salão Beleza Pura (fictício)",
+        "shop": "hairdresser",
+        "addr:street": "Rua Fictícia Marcondes",
+        "addr:housenumber": "120",
+        "addr:suburb": "Vila Marcondes",
+        "phone": "18 90000-0102"
+      },
+      "lat": -22.117,
+      "lon": -51.37
+    },
+    {
+      "type": "node",
+      "id": 1103,
+      "tags": {
+        "name": "Auto Center Rodas (fictício)",
+        "shop": "car_repair",
+        "addr:street": "Avenida Fictícia Leste",
+        "addr:housenumber": "900",
+        "phone": "(18) 2000-0103"
+      },
+      "lat": -22.12,
+      "lon": -51.375
+    },
+    {
+      "type": "node",
+      "id": 1104,
+      "tags": {
+        "name": "Auto Center Rodas (fictício)",
+        "shop": "car_repair",
+        "addr:street": "Avenida Fictícia Leste",
+        "addr:housenumber": "900"
+      },
+      "lat": -22.121,
+      "lon": -51.3755
+    },
+    {
+      "type": "node",
+      "id": 1105,
+      "tags": {
+        "name": "Pet Shop Amigo Fiel (fictício)",
+        "shop": "pet",
+        "addr:street": "Rua Fictícia dos Animais",
+        "phone": "12345"
+      },
+      "lat": -22.113,
+      "lon": -51.369
+    },
+    {
+      "type": "node",
+      "id": 1201,
+      "tags": {
+        "name": "Restaurante Sabor Caseiro (fictício)",
+        "amenity": "restaurant",
+        "addr:street": "Rua Fictícia Planalto",
+        "addr:housenumber": "77",
+        "addr:suburb": "Jardim Planalto",
+        "phone": "18 2000-0201",
+        "check_date": "2026-08-01"
+      },
+      "lat": -22.125,
+      "lon": -51.405
+    },
+    {
+      "type": "node",
+      "id": 1202,
+      "tags": {
+        "name": "Loja de Roupas Estilo (fictícia)",
+        "shop": "clothes",
+        "addr:street": "Avenida Fictícia Oeste",
+        "addr:housenumber": "1500",
+        "addr:suburb": "Jardim Planalto",
+        "phone": "(18)2000-0202"
+      },
+      "lat": -22.128,
+      "lon": -51.4
+    },
+    {
+      "type": "way",
+      "id": 2201,
+      "tags": {
+        "name": "Hotel Descanso (fictício)",
+        "tourism": "hotel",
+        "addr:street": "Avenida Fictícia Oeste",
+        "addr:housenumber": "2000",
+        "phone": "+551820000203"
+      },
+      "center": {
+        "lat": -22.13,
+        "lon": -51.41
+      }
+    },
+    {
+      "type": "node",
+      "id": 1203,
+      "tags": {
+        "name": "Clínica Odonto Sorriso (fictícia)",
+        "amenity": "dentist",
+        "addr:street": "Rua Fictícia Planalto",
+        "addr:housenumber": "210",
+        "phone": "(18) 2000-0204"
+      },
+      "lat": -22.122,
+      "lon": -51.402
+    },
+    {
+      "type": "node",
+      "id": 1301,
+      "tags": {
+        "name": "Posto Estrada (fictício)",
+        "amenity": "fuel",
+        "addr:street": "Rodovia Fictícia",
+        "addr:housenumber": "km 5",
+        "phone": "18 2000-0301"
+      },
+      "lat": -22.15,
+      "lon": -51.43
+    },
+    {
+      "type": "node",
+      "id": 1302,
+      "tags": {
+        "name": "Floricultura Jardim (fictícia)",
+        "shop": "florist",
+        "phone": "(18) 2000-0302"
+      },
+      "lat": -22.1,
+      "lon": -51.35
+    },
+    {
+      "type": "node",
+      "id": 1401,
+      "tags": {
+        "name": "Banca Sem Contato (fictícia)",
+        "shop": "kiosk"
+      },
+      "lat": -22.119,
+      "lon": -51.389
+    }
+  ]
+}

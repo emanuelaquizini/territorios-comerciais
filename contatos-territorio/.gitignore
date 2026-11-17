@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+build/
+dist/
+*.spec
+cache/
+saida/
+# Pedidos de oposição e territórios reais não devem ir para repositórios públicos
+dados/bloqueio.csv
+dados/territorios.geojson

@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "name": "territorios_exemplo",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Central",
+        "observacao": "EXEMPLO: limites aproximados e fictícios, apenas para teste. Substituir pelos limites fornecidos e validados pela congregação."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.395,
+              -22.13
+            ],
+            [
+              -51.38,
+              -22.13
+            ],
+            [
+              -51.38,
+              -22.115
+            ],
+            [
+              -51.395,
+              -22.115
+            ],
+            [
+              -51.395,
+              -22.13
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Marcondes",
+        "observacao": "EXEMPLO: limites aproximados e fictícios, apenas para teste. Substituir pelos limites fornecidos e validados pela congregação."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.38,
+              -22.13
+            ],
+            [
+              -51.365,
+              -22.13
+            ],
+            [
+              -51.365,
+              -22.11
+            ],
+            [
+              -51.38,
+              -22.11
+            ],
+            [
+              -51.38,
+              -22.13
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Planalto",
+        "observacao": "EXEMPLO: limites aproximados e fictícios, apenas para teste. Substituir pelos limites fornecidos e validados pela congregação."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.415,
+              -22.135
+            ],
+            [
+              -51.395,
+              -22.135
+            ],
+            [
+              -51.395,
+              -22.115
+            ],
+            [
+              -51.415,
+              -22.115
+            ],
+            [
+              -51.415,
+              -22.135
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "cidade": "Presidente Prudente",
+  "uf": "SP",
+  "ddd_padrao": "18",
+  "bbox": null,
+  "overpass_url": "https://overpass-api.de/api/interpreter",
+  "user_agent": "contatos-territorio/1.0 (projeto extensionista academico)",
+  "arquivo_territorios": "dados/territorios.geojson",
+  "arquivo_bloqueio": "dados/bloqueio.csv",
+  "pasta_saida": "saida",
+  "pasta_cache": "cache",
+  "cache_horas": 24,
+  "retencao_dias": 180,
+  "tamanho_amostra": 20,
+  "incluir_sem_telefone": true
+}

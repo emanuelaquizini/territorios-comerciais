@@ -1,0 +1,24 @@
+[project]
+name = "contatos-territorio"
+version = "1.0.0"
+description = "Organiza contatos comerciais por território a partir do OpenStreetMap e gera planilha XLSX."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["openpyxl>=3.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pyinstaller>=6"]
+
+[project.scripts]
+contatos = "contatos_territorio.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["contatos_territorio"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
