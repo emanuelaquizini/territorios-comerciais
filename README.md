@@ -54,6 +54,7 @@ OpenStreetMap ──► coleta ──► normalização ──► remoção de �
 4. A planilha fica na pasta `saida/`. Confira a aba **Revisão** antes de distribuir.
 
 O passo a passo em linguagem simples está em [`docs/GUIA_DO_VOLUNTARIO.md`](docs/GUIA_DO_VOLUNTARIO.md).
+No Windows, use copy dados\territorios_exemplo.geojson dados\territorios.geojson
 
 ### Para desenvolvimento
 
